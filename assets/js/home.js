@@ -1,0 +1,1 @@
+console.log('my static file is running');
